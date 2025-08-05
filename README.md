@@ -1858,3 +1858,55 @@ be
 
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
 * References for Go were mostly cut-and-pasted from [gopherdata](https://github.com/gopherdata/resources/tree/master/tooling)
+
+
+Dự án này là gì?
+Đây là một danh sách tuyển chọn (curated list) các framework, thư viện và phần mềm liên quan đến Machine Learning (học máy), phân loại theo ngôn ngữ lập trình. Dự án này có tên là Awesome Machine Learning và được lấy cảm hứng từ các danh sách “awesome” khác trên GitHub (ví dụ như awesome-php).
+
+Mục tiêu của dự án
+Tổng hợp và phân loại: Danh sách này giúp bạn tìm kiếm các thư viện, framework nổi bật về Machine Learning cho từng ngôn ngữ lập trình một cách dễ dàng, ví dụ: Python, C++, Java, JavaScript, v.v.
+
+Tiết kiệm thời gian tra cứu: Nếu bạn làm việc với bất kỳ ngôn ngữ nào, chỉ cần vào danh sách này sẽ thấy được các thư viện phù hợp nhất.
+
+Học hỏi và tham khảo: Ngoài thư viện mã nguồn, dự án còn tổng hợp các nguồn học tập như sách miễn phí, khóa học, blog, hội thảo, v.v.
+
+Dành cho ai?
+Người mới bắt đầu muốn học hoặc thực hành về Machine Learning.
+
+Lập trình viên đang tìm kiếm thư viện hoặc công cụ tốt nhất cho ngôn ngữ mình sử dụng.
+
+Nhà nghiên cứu, sinh viên cần tham khảo các tài nguyên học thuật hoặc mã nguồn mở liên quan đến AI/ML.
+
+Danh sách gồm những gì?
+Các thư viện Machine Learning nổi bật theo từng ngôn ngữ (Python, Java, C++, Go, JavaScript, R, v.v.).
+
+Các mảng chuyên biệt như: Xử lý ngôn ngữ tự nhiên (NLP), Thị giác máy tính (Computer Vision), Học tăng cường (Reinforcement Learning), v.v.
+
+Công cụ hỗ trợ: Ngoài các thư viện còn có các công cụ như visualization (vẽ biểu đồ), data analysis, benchmark, v.v.
+
+Nguồn tài nguyên mở rộng: Link tới sách, khóa học online, blog, newsletter, sự kiện, meetup miễn phí, v.v.
+
+Cách sử dụng?
+Xem theo ngôn ngữ bạn quan tâm: Ví dụ bạn code Python thì xem phần Python, hoặc JavaScript thì xem phần JavaScript.
+
+Tra cứu tên thư viện/ngành con: Mỗi mục đều có mô tả ngắn và link tới trang chủ/GitHub của thư viện.
+
+Đóng góp: Nếu bạn biết thư viện hay mà chưa có trong danh sách, bạn có thể gửi pull request hoặc liên hệ tác giả để bổ sung.
+
+Ví dụ cụ thể
+Nếu bạn làm Python thì có các thư viện nổi bật như: scikit-learn, TensorFlow, PyTorch, Keras, v.v.
+
+Nếu bạn làm C++ thì có: DLib, Caffe, CatBoost, LightGBM, XGBoost, v.v.
+
+Ngoài ra, còn rất nhiều thư viện cho Java, R, Scala, Go, v.v.
+
+Lưu ý
+Danh sách này chỉ tổng hợp các thư viện/công cụ được cộng đồng đánh giá cao (awesome), không phải là nơi hướng dẫn cách dùng chi tiết.
+
+Nếu một thư viện nào đó bị ngừng phát triển hoặc lỗi thời, sẽ có ghi chú là [Deprecated].
+
+Bạn có thể xem thêm các tài liệu/hướng dẫn chuyên sâu qua các link tài nguyên mà dự án gợi ý.
+
+Tóm lại
+Awesome Machine Learning là một “bản đồ tổng quát” các công cụ AI/Machine Learning mã nguồn mở trên toàn thế giới, phân loại cực chi tiết theo ngôn ngữ và mảng ứng dụng. Khi bạn fork repo này, bạn có thể tự bổ sung, chia sẻ hoặc dùng như một nguồn tra cứu cực kỳ tiện lợi khi làm bất kỳ dự án liên quan đến Machine Learning.
+
